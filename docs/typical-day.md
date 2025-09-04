@@ -12,6 +12,8 @@ Time | Activity
 15:00 - 16:00 | Beg for dinner
 16:00 | Dinner
 16:15 | Walk
-17:00 - 21:00 | Relax
+17:00 - 18:45 | Relax
+18:45 - 19:30 | Enjoy a rawhide or pig ear
+19:30 - 21:00 | Relax
 21:00 | Go outside before bed
 21:15 | Bedtime
