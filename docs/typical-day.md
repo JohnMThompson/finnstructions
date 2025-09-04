@@ -8,7 +8,7 @@ Time | Activity
 08:15 | Go outside and eat breakfast
 08:30 - 11:00 | Finn will relax indoors or go back to sleep.
 11:00 | A trip outside to use the facilities or a short walk
-11:30 - 15:00 | Relaxing and playing. Great time for a bone.
+11:30 - 15:00 | Relaxing and playing.
 15:00 - 16:00 | Beg for dinner
 16:00 | Dinner
 16:15 | Walk
