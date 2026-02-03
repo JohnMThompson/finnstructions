@@ -29,6 +29,9 @@ nav:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/age-calculator.js
+
 theme:
   name: material
   logo: assets/finn.png
