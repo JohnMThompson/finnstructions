@@ -1,0 +1,18 @@
+:root {
+    --md-primary-fg-color:        #161616;
+    --md-primary-fg-color--light: #161616;
+    --md-primary-fg-color--dark:  #161616;
+    --md-accent-fg-color:         #363636;
+    --md-accent-fg-color--light:  #363636;
+    --md-accent-fg-color--dark:   #363636;
+  }
+
+[data-md-color-scheme="finn-light"] {
+    --md-primary-fg-color:        #161616;
+    --md-accent-fg-color:         #363636;
+}
+
+[data-md-color-scheme="finn-dark"] {
+    --md-primary-fg-color:        #E8E8E8;
+    --md-accent-fg-color:         #BFBFBF;
+}
