@@ -64,11 +64,8 @@ These instructions will help you set up the project locally to develop or previe
 
 2. Install dependencies  
    ```bash
-   pip install mkdocs
-   pip install mkdocs-material
+   pip install -r requirements.txt
    ```
-
-   (Alternatively, if you use a `requirements.txt` or `dev` requirements, install via that.)
 
 3. Serve locally  
    ```bash
