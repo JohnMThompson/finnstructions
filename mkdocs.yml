@@ -30,7 +30,7 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - assets/js/age-calculator.js
+  - javascripts/age-calculator.js
 
 theme:
   name: material
